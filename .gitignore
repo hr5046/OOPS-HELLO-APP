@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Java
+*.class
+
+# C / C++
+a.out
+*.dSYM
+
+# Python
+__pycache__/
+
+# Temp files
+untitled*
+
